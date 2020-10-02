@@ -314,7 +314,14 @@ let contributers=[
         "github":"https://github.com/kar108",
         "instagram":"https://instagram.com/sanathraj",
 	"linkedin":""
-    }
+    },
+    {
+	"name":"Trishar T Suvarna",
+        "college":"SCEM",
+        "image":"images/trishar.jpeg",
+        "github":"https://github.com/TrisharTS",
+        "linkedin":"https://www.linkedin.com/in/trishar-s-09697b192/",
+        "instagram":"https://instagram.com/trishar_ts"
     
  ]
 
